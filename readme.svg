@@ -78,8 +78,7 @@
 			</style>
 			<div class="container">
 				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-				<a href="stats">
-  				<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=finitestategit&show_icons=true&theme=onedark" /></a></p>
+  				<p><a href="stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=finitestategit&show_icons=true&theme=onedark" /></a></p>
 			</div>
 		</div>
 	</foreignObject>
