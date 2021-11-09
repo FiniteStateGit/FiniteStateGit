@@ -1,11 +1,11 @@
 <a>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=FiniteStateGit&theme=city-lights&hide_border=true")/>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=FiniteStateGit&theme=github-dark&hide_border=true")/>
 </a>
 <a>
   <img align="right" src="https://via.placeholder.com/475x25/0D1117/0D1117/"/>
 </a>
 <a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=finitestategit&show_icons=true&theme=city_lights&hide_border=true"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=finitestategit&show_icons=true&theme=github_dark&hide_border=true&custom_title=FiniteStateGit%27s%20Stats&line_height=30&icon_color=39D353&title_color=1F6FEB"/>
 </a>
 
 ### Work + Fun
