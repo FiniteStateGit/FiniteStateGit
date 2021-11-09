@@ -14,9 +14,9 @@
 
 | Active Repositories |
 | :-: |
-| <a href="https://github.com/o3de/o3de.org/pulse"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=finitestategit&repo=o3de.org&theme=onedark"/></a> |
-| <a href="https://github.com/o3de/o3de/pulse"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=finitestategit&repo=o3de&theme=onedark"/></a> |
-| <a href="https://github.com/o3de/sig-docs-community/pulse"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=finitestategit&repo=sig-docs-community&theme=onedark"/></a> |
-| <a href="https://github.com/o3de/community/pulse"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=finitestategit&repo=community&theme=onedark"/></a> |
-| <a href="https://github.com/o3de/sig-operations/pulse"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=finitestategit&repo=sig-operations&theme=onedark"/></a> |
+| <a href="https://github.com/o3de/o3de.org"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=finitestategit&repo=o3de.org&theme=onedark"/></a> |
+| <a href="https://github.com/o3de/o3de"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=finitestategit&repo=o3de&theme=onedark"/></a> |
+| <a href="https://github.com/o3de/sig-docs-community"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=finitestategit&repo=sig-docs-community&theme=onedark"/></a> |
+| <a href="https://github.com/o3de/community"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=finitestategit&repo=community&theme=onedark"/></a> |
+| <a href="https://github.com/o3de/sig-operations"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=finitestategit&repo=sig-operations&theme=onedark"/></a> |
 | <a href="https://github.com/FiniteStateGit/tutorial-portfolio"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=finitestategit&repo=tutorial-portfolio&theme=onedark"/></a> |
