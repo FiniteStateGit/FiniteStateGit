@@ -21,3 +21,5 @@ Founding Team Member, [Starbucks Reserve Roastery & Tasting Room](https://www.st
 Author, Uzbek News Corpus, 80 million words (unpublished)
 
 Reviewer, [o3de/o3de.org](https://github.com/o3de/o3de.org) 
+##
+![](https://img.shields.io/badge/python-0D1117) ![](https://img.shields.io/badge/lua-0D1117) ![](https://img.shields.io/badge/javascript-0D1117)
