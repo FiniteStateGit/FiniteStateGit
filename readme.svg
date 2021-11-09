@@ -78,7 +78,7 @@
 			</style>
 			<div class="container">
 				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-  				<p><image xlink:href="https://github-readme-stats.vercel.app/api?username=finitestategit&show_icons=true&theme=onedark" /></a></p>
+  				<p><image xlink:href="https://github-readme-stats.vercel.app/api?username=finitestategit&show_icons=true&theme=onedark"; /></a></p>
 			</div>
 		</div>
 	</foreignObject>
