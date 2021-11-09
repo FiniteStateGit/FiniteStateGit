@@ -1,16 +1,20 @@
-### Hi there 👋
+## Welcome to FiniteStateGit's Profile!
 
-<!--
-**FiniteStateGit/FiniteStateGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=FiniteStateGit&theme=onedark")/>
+</a>
+<a>
+  <img align="right" src="https://via.placeholder.com/475x25/0D1117/0D1117/"/>
+</a>
+<a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=finitestategit&show_icons=true&theme=onedark"/>
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Active Repositories |
+| :-: |
+| <a href="https://github.com/o3de/o3de.org/pulse"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=finitestategit&repo=o3de.org&theme=onedark"/></a> |
+| <a href="https://github.com/o3de/o3de/pulse"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=finitestategit&repo=o3de&theme=onedark"/></a> |
+| <a href="https://github.com/o3de/sig-docs-community/pulse"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=finitestategit&repo=sig-docs-community&theme=onedark"/></a> |
+| <a href="https://github.com/o3de/community/pulse"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=finitestategit&repo=community&theme=onedark"/></a> |
+| <a href="https://github.com/o3de/sig-operations/pulse"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=finitestategit&repo=sig-operations&theme=onedark"/></a> |
+| <a href="https://github.com/FiniteStateGit/tutorial-portfolio"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=finitestategit&repo=tutorial-portfolio&theme=onedark"/></a> |
