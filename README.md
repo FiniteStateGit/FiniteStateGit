@@ -20,6 +20,8 @@
 
 **Author** Uzbek News Corpus, 80 million words (unpublished)
 
+**Content Creator** [My Youtube channel](https://www.youtube.com/channel/UCCAV7p7alJolihgzEZb4B5w), Lumberyard tutorials
+
 **Reviewer** [o3de/o3de.org](https://github.com/o3de/o3de.org)
 
 ##
