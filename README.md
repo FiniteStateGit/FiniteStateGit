@@ -25,7 +25,3 @@
 **Reviewer** [o3de/o3de.org](https://github.com/o3de/o3de.org)
 
 **Chair** O3DE [sig-docs-community](https://github.com/o3de/sig-docs-community)
-
-##
-
-![](https://img.shields.io/badge/python-1F6FEB) ![](https://img.shields.io/badge/lua-1F6FEB) ![](https://img.shields.io/badge/javascript-1F6FEB) ![](https://img.shields.io/badge/npm-1F6FEB) ![](https://img.shields.io/badge/blender-1F6FEB)
