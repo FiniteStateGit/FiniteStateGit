@@ -22,6 +22,6 @@
 
 **Content Creator** [My Youtube channel](https://www.youtube.com/channel/UCCAV7p7alJolihgzEZb4B5w), Lumberyard tutorials
 
-**Reviewer** [o3de/o3de.org](https://github.com/o3de/o3de.org)
+**Maintainer** [o3de/o3de.org](https://github.com/o3de/o3de.org)
 
 **Chair** O3DE [sig-docs-community](https://github.com/o3de/sig-docs-community)
